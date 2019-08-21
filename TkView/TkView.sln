@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "tk_dt_dll", "tk_dt_dll\tk_dt_dll.vcproj", "{FEF36D73-382B-48F6-93C7-322312C79514}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "tk_dt_all_invoke", "tk_dt_all_invoke\tk_dt_all_invoke.vcproj", "{5BE29CCC-1F7E-4EFD-8FA8-1719445C8053}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FEF36D73-382B-48F6-93C7-322312C79514}.Debug|Win32.ActiveCfg = Debug|Win32
+		{FEF36D73-382B-48F6-93C7-322312C79514}.Debug|Win32.Build.0 = Debug|Win32
+		{FEF36D73-382B-48F6-93C7-322312C79514}.Release|Win32.ActiveCfg = Release|Win32
+		{FEF36D73-382B-48F6-93C7-322312C79514}.Release|Win32.Build.0 = Release|Win32
+		{5BE29CCC-1F7E-4EFD-8FA8-1719445C8053}.Debug|Win32.ActiveCfg = Debug|Win32
+		{5BE29CCC-1F7E-4EFD-8FA8-1719445C8053}.Debug|Win32.Build.0 = Debug|Win32
+		{5BE29CCC-1F7E-4EFD-8FA8-1719445C8053}.Release|Win32.ActiveCfg = Release|Win32
+		{5BE29CCC-1F7E-4EFD-8FA8-1719445C8053}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
